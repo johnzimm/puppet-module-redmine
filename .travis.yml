@@ -16,4 +16,4 @@ env:
   - PUPPET_GEM_VERSION="~> 3.7"
 notifications:
   email:
-    - johan@johan.org.uk
+    - john.zimm@gmail.com
